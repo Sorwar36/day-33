@@ -144,7 +144,7 @@ ul.coustom-code li:hover ul {
 
 
 .slider-section{
-    background: url(../img/main-banner2.jpg) no-repeat center center;
+    background: url(./img/main-banner2.jpg) no-repeat center center;
     z-index: -1;
     background-attachment: fixed;
 
